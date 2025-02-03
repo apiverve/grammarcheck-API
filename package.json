@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/grammarcheck",
+  "version": "1.1.7",
+  "description": "Grammar Check is a simple tool for checking the grammar and spelling of a text. It returns the corrected text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/grammarcheck-API.git"
+  },
+  "keywords": [
+    "grammar check","grammar checker","grammar check api","grammar check tool","grammar check software"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/grammarcheck-API/issues"
+  },
+  "homepage": "https://apiverve.com/marketplace/api/grammarcheck?utm_source=npm",
+  "devDependencies": {
+    "mocha": "^11.0.1",
+    "chai": "^5.1.2",
+    "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "promise": "^8.3.0",
+    "axios": "1.7.9"
+  }
+}
