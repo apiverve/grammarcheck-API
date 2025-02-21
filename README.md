@@ -48,7 +48,7 @@ Using the API client, you can perform requests to the API.
 
 ```
 var query = {
-  "text": "The the pig snorted when I saW it on the barn gate. I was a little mad becuase it woke up my pupppppy"
+  "text": "The the pig snorted when I saw it on the barn gate. I was a little mad becuase it woke up my pupppppy"
 };
 ```
 
@@ -100,7 +100,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
